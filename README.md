@@ -12,3 +12,7 @@ It works by moving or scrolling the mouse at randomized time range specified by 
 
 1. Assuming Python 3 programming environment already configured by the user; execute `pip install pynput pyqt5` to install the required dependencies.
 2. cd the console to the current directory and execute `python mouseMover.py`.
+
+## Note
+
+This program is tested only one Windows 10, it might or might not work on Linux and Mac OS.
