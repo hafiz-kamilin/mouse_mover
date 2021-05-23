@@ -1,7 +1,7 @@
 # M²: Mouse Mover
 
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/mouse_mover/main/demonstration.jpg" width = "410" height = "203"/>
+  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/mouse_mover/main/demonstration.jpg" width = "400" height = "200"/>
 </p>
 
 M²: Mouse Mover is a software created to keeps your online status on Team, Skype, Discord, and any other applications that monitor the mouse movement. 
