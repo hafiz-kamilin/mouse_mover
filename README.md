@@ -4,7 +4,7 @@
   <img src = "https://raw.githubusercontent.com/hafiz-kamilin/mouse_mover/main/demonstration.jpg" width = "341" height = "203"/>
 </p>
 
-M²: Mouse Mover is a software created to keeps your online status on Team, Skype, Discord, and any other applications that monitor the mouse movement. 
+M²: Mouse Mover is a software created to maintains your online status on Team, Skype, Discord, and any other applications that monitor the mouse movement. 
 
 It works by moving or scrolling the mouse at randomized time range specified by the user. To make sure the mouse input looks believable (without any repetition), the moving and scroling action also randomizeed.
 
