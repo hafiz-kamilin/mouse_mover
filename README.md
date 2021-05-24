@@ -6,7 +6,7 @@
 
 M²: Mouse Mover is a software created to keeps your online status on Team, Skype, Discord, and any other applications that monitor the mouse movement. 
 
-It works by moving or scrolling the mouse at randomized time range specified by the user. To make sure the mouse input looks believable (hard to be detected), the moving and scroling action also randomizeed.
+It works by moving or scrolling the mouse at randomized time range specified by the user. To make sure the mouse input looks believable (without any repetition), the moving and scroling action also randomizeed.
 
 ## Test run
 
@@ -15,4 +15,4 @@ It works by moving or scrolling the mouse at randomized time range specified by 
 
 ## Note
 
-This program is tested only one Windows 10, it might or might not work on Linux and Mac OS.
+This program is tested only one Windows 10, it might or might not work on Linux and Mac OS. Especially on `python mouseMover.py` lines 19-22, this code snippet is used to properly display the application's icon on the Windows taskbar.
