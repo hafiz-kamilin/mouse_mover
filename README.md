@@ -1,7 +1,7 @@
 # M²: Mouse Mover
 
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/mouse_mover/main/demonstration.jpg" width = "341" height = "203"/>
+  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/exercise_mouseMover/main/demonstration.jpg" width = "341" height = "203"/>
 </p>
 
 I have created M²: Mouse Mover to maintains online status on Team, Skype, Discord, and any other applications that monitor the mouse movement. 
