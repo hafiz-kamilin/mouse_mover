@@ -4,7 +4,7 @@
   <img src = "https://raw.githubusercontent.com/hafiz-kamilin/project_mouseMover/main/source/demonstration.jpg" width = "341" height = "203"/>
 </p>
 
-I have created M²: Mouse Mover to maintains online status on Team, Skype, Discord, and any other applications that monitor the mouse movement. 
+I have created M²: Mouse Mover to maintains online status on Team, Skype, Discord, and any other applications that monitor the mouse movement to determine if the user is using the computer or not. 
 
 It works by moving or scrolling the mouse at a randomized time range specified by the user. To make sure the mouse input looks believable (without any repetition), the moving and scrolling action is also randomized. This will ensure the online status of the user is maintained.
 
